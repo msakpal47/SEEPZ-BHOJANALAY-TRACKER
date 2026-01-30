@@ -1,5 +1,4 @@
 ## SEEPZ BHOJANALAY
-
 https://6er5b44waygyo.mocha.app/
 
 This app was created using https://getmocha.com.
